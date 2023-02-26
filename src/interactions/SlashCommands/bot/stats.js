@@ -11,7 +11,6 @@ module.exports = {
 
         await interaction.deferReply();
 
-
         let userCounts = client.guilds.cache.reduce(
             (acc, guild) => acc + guild.memberCount,
             0
