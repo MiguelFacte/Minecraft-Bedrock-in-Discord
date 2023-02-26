@@ -1,0 +1,11 @@
+{
+  "port": "9090",
+  "Discord": [
+    {
+      "token": "Your Discord bot token",
+      "CHANNEL_ID": "ID of the channel you want to receive and send messages",
+      "WebHook_URL": "Webhook URL link",
+      "WebHook_iconURL": "https://cdn.discordapp.com/emojis/1079239833957974046.webp?size=96&quality=lossless"
+    }
+  ]
+}
